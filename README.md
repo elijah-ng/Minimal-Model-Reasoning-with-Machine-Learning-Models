@@ -1,1 +1,1 @@
-# Minimal-Model-Reasoning
+# Minimal Model Reasoning with Machine Learning Models
