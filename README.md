@@ -1,5 +1,5 @@
 # Minimal Model Reasoning with Machine Learning Models
-This repository uses the pre-trained models and code from https://github.com/porscheofficial/sls_sat_solving_with_deep_learning/blob/main/python/src/evaluate_with_given_params.py.
+This project repository uses the pre-trained models and code from https://github.com/porscheofficial/sls_sat_solving_with_deep_learning/.
 
 Modifications to the code have been made and it has been adapted to use the Deep Learning SLS Sat Solving Model for Minimal Model Solving.
 
@@ -7,7 +7,7 @@ Modifications to the code have been made and it has been adapted to use the Deep
 1*) On Windows, run WSL2, and install Ubuntu. <br>
 2*) Run the WSL2 Ubuntu instance. <br>
 3) Within WSL2 Ubuntu instance, create a Conda virtual environment and ensure it is activated. <br>
-4) Follow the "Setup" instructions from the original repository. <br>
+4) Follow the "Setup" instructions from the original project repository. You may skip the steps on creating a Python virtual environment since we will be using the Conda virtual environment. <br>
 5) Run Jupyter Notebook using `jupyter-notebook --no-browser`. Click on the local host link to launch Jupyter Notebook in your browser. <br>
 6) In Jupyter Notebook, navigate to "python/src" and open "minimalmodel.ipynb".
 7) At the top bar, go to "Kernel" > "Change kernel" and ensure the Conda virtual environment's kernel is selected^. <br>
